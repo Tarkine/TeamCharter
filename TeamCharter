@@ -94,17 +94,26 @@ Git Process
 Plan out what your team’s Git workflow looks like for coding tasks.
 Describe at least:
 What components of your project will live on GitHub?
-
-
+Dev branch and main branch
+Feature branches will be worked on locally
 How will you share the repository with your teammates?
+Made an organization and all owners of it
 What is your Git flow?
+Main - product
+Dev - act as main
+Feature - local efforts
 Will you be using a PR review workflow? If so, consider:
 How many people must review a PR?
+Between main and dev, we will implement pull requests after a code review
 Who merges PRs?
+Anyone after the code review
 How often will you merge?
+Milestones
 How will you communicate that it’s time to merge?
+Once we’ve reached the milestones via the kanban board
 Submitting Your Work
 This is a group submission. Only one person must submit for group credit.
 Please have everyone’s name at the top of the doc.
 Submit a link to your GitHub markdown file where you have created your Team Agreement.
 This step must be completed and approved before proceeding with any project work. Notify your instructor when this is ready for review.
+
